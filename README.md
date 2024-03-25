@@ -28,25 +28,62 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 
+Step 1. Intake
+  <p>
+  After logging in, go to the ADMIN panel.
+Click "Agents" on the top menu bar.
+Then, click "Roles" on the lower menu bar.
+Choose "Add New Role" to make roles for the organization. These roles decide who can do what tasks based on their departments and abilities, like assigning or closing tickets.
+</p>
+<p>
+
+<br />
+
+<p>
+<img width="942" alt="3" src="https://github.com/Zakari23/ticket-lifecycle/assets/158666482/62222005-9004-4c5f-b6cb-667b208f056f">
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2. Assignment and Communication 
+  <p>
+  After logging in, go to the ADMIN panel.
+Click "Agents" on the top menu bar.
+Then, click "Roles" on the lower menu bar.
+Choose "Add New Role" to make roles for the organization. These roles decide who can do what tasks based on their departments and abilities, like assigning or closing tickets.
+</p>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1003" alt="4" src="https://github.com/Zakari23/ticket-lifecycle/assets/158666482/4be6fbe4-739d-4399-a937-e0f9d92f262d">
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3. Configure Roles
+  <p>
+  After logging in, go to the ADMIN panel.
+Click "Agents" on the top menu bar.
+Then, click "Roles" on the lower menu bar.
+Choose "Add New Role" to make roles for the organization. These roles decide who can do what tasks based on their departments and abilities, like assigning or closing tickets.
+</p>
 </p>
 <br />
+<img width="990" alt="5" src="https://github.com/Zakari23/ticket-lifecycle/assets/158666482/f030a9f3-aea1-4b8e-b94f-ca5ad3963cda">
+<p>
+<p>
+<p></p>
+</p>
+Step 4. Resolution
+  <p>
+  After logging in, go to the ADMIN panel.
+Click "Agents" on the top menu bar.
+Then, click "Roles" on the lower menu bar.
+Choose "Add New Role" to make roles for the organization. These roles decide who can do what tasks based on their departments and abilities, like assigning or closing tickets.
+</p>
+</p>
+<br />
+<img width="985" alt="7" src="https://github.com/Zakari23/ticket-lifecycle/assets/158666482/1fceb225-1c3d-4b48-b19b-7ecc81a3b919">
+<p>
+  <img width="991" alt="6" src="https://github.com/Zakari23/ticket-lifecycle/assets/158666482/30706f9f-cbc7-49ce-b5dc-e2a6b386b41b">
+
+</p>
