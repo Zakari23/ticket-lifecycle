@@ -30,10 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 Step 1. Intake
   <p>
-  After logging in, go to the ADMIN panel.
-Click "Agents" on the top menu bar.
-Then, click "Roles" on the lower menu bar.
-Choose "Add New Role" to make roles for the organization. These roles decide who can do what tasks based on their departments and abilities, like assigning or closing tickets.
+  In this image, I'm creating a ticket in Osticket.
 </p>
 <p>
 
@@ -46,10 +43,7 @@ Choose "Add New Role" to make roles for the organization. These roles decide who
 <p>
 Step 2. Assignment and Communication 
   <p>
-  After logging in, go to the ADMIN panel.
-Click "Agents" on the top menu bar.
-Then, click "Roles" on the lower menu bar.
-Choose "Add New Role" to make roles for the organization. These roles decide who can do what tasks based on their departments and abilities, like assigning or closing tickets.
+  Now that I've created two tickets as Jane Smith, we can see them displayed in the ticket tabs. At this time I'm still operating as the Admin Zakari.
 </p>
 </p>
 <br />
@@ -61,10 +55,7 @@ Choose "Add New Role" to make roles for the organization. These roles decide who
 <p>
 Step 3. Configure Roles
   <p>
-  After logging in, go to the ADMIN panel.
-Click "Agents" on the top menu bar.
-Then, click "Roles" on the lower menu bar.
-Choose "Add New Role" to make roles for the organization. These roles decide who can do what tasks based on their departments and abilities, like assigning or closing tickets.
+  For this project, I created an agent by the name of John. I signed in as John and processed to claim Jane Smith's ticket.
 </p>
 </p>
 <br />
@@ -75,10 +66,7 @@ Choose "Add New Role" to make roles for the organization. These roles decide who
 </p>
 Step 4. Resolution
   <p>
-  After logging in, go to the ADMIN panel.
-Click "Agents" on the top menu bar.
-Then, click "Roles" on the lower menu bar.
-Choose "Add New Role" to make roles for the organization. These roles decide who can do what tasks based on their departments and abilities, like assigning or closing tickets.
+  After I made some notes on Jane's ticket I solved the problem and then closed out the ticket.
 </p>
 </p>
 <br />
